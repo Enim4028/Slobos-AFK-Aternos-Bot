@@ -8,7 +8,7 @@
   "server": {
     "ip": "enim40.aternos.me",
     "port": 64663,
-    "version": "",
+    "version": "1.26.3.1",
     "try-creative": false
   },
   "position": {
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
