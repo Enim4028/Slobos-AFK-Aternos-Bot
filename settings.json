@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Porco Dio - Bot AFK",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "enim40.aternos.me",
+    "port": 64663,
     "version": "",
     "try-creative": false
   },
